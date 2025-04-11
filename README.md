@@ -1,3 +1,9 @@
+<div>
+  <p align="center">
+    <img src="./$4z3hacz3jcm.gif" alt="GIF">
+  </p>
+</div>
+
 - 👋 Hi, I’m @snrpedrogodri
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,4 +11,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://seniorsistemassa.sharepoint.com/:i:/r/sites/BigBuddy124/Documentos%20Compartilhados/General/Marketing/Comunica%C3%A7%C3%A3o%20interna/Assinatura%202021%20e%202022/images/$lpsti9xfwcj.png?csf=1&web=1&e=QX1P3O" />
+
+<div>
+  <p align="center">
+    <img src="head-email-clube-onboarding-2.jpg" alt="Demonstração">
+  </p>
+</div>
